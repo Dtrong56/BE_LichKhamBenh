@@ -12,4 +12,4 @@ Các api sẽ được viết ở folder Controller
 
 ![example](Asset/pic.png)
 
-Lưu ý có một file serviceAccountKey bị thiếu cái này chứa dữ liệu google nên nó ko cho đẩy lên git nhớ kêu anh gửi cho nha.
+Lưu ý có một file serviceAccountKey bị thiếu cái này chứa dữ liệu google nên nó ko cho đẩy lên git nhớ kêu.
